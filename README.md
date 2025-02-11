@@ -1,4 +1,5 @@
-# Game Project - User Registration & Game System
+# 2 in 1
+
 
 ## Overview
 This Java project implements a simple user registration and authentication system along with two games. The system allows users to register, log in, and play games using a game currency system.
